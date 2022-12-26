@@ -4,6 +4,7 @@ const log = {
     },
     warn: function (warn){
         console.log('warn');
+        console.log('Thsi is testing branch')
     },
     error: function (error){
         console.log('error');
